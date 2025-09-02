@@ -1,0 +1,42 @@
+
+# Miscellaneous
+*.class
+*.log
+*.pyc
+*.swp
+.DS_Store
+.atom/
+.buildlog/
+.history
+.svn/
+# IntelliJ related
+*.iml
+*.ipr
+*.iws
+.idea/
+# Flutter/Dart related
+**/doc/api/
+**/ios/Flutter/.last_build_id
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+build/
+flutter_*.png
+flutter_*.svg
+flutter_*.ttf
+flutter_*.woff
+flutter_*.woff2
+# Firebase service account key (security risk)
+backend/serviceAccountKey.json
+backend/google-service-account.json
+backend/.env
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+# Uploads
+uploads/
